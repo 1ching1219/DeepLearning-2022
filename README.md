@@ -82,3 +82,4 @@ A simple warm-up to get familiar with PyTorch operations, including tensor manip
 - nltk
 - transformers (for BERT)
 
+Copyright © 2022 by 1ching. All rights reserved.
